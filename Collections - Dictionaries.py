@@ -21,3 +21,7 @@ print(student_1)
 # remove an item
 student_1["completed_lessons_names"].remove("data_types")
 print(student_1["completed_lessons_names"]) # only if you print you can see if the data is remove or not
+
+
+student_1["completed_lessons_names"].remove("set_up")
+print(student_1)
