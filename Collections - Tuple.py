@@ -3,5 +3,7 @@
 essentials = ("bread", "eggs", "milk")
 print(essentials)
 print(essentials.count("bread"))
-essentials[0] = "beans"  #cannot do this because tuple is UNCHANGEABLE
+#is an error because tuple is UNCHANGEABLE
+essentials[0] = "beans"
+
 

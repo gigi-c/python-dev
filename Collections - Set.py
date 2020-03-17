@@ -11,5 +11,5 @@ car_parts.discard("doors")
 print(car_parts)
 
 #Frozen sets: immutable versions of the set similar to tuple
-x = frozenset([1,2,3,5])
+x = frozenset([1, 2, 3, 5])
 print(type(x))
