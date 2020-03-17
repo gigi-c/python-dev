@@ -60,7 +60,7 @@ elif number%5 == 0:
 else:
     print("{} is not divisible by both 3 and 5".format(number))
 
-#or range of numbers
+# or range of numbers
 number = int(input("Please enter a number: "))
 for num in range (1,number + 1):
     if num % 3 == 0 and num % 5 == 0:
