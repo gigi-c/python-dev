@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cddd76c-95c6-41a3-ad21-db8a6a6cf189" name="Default Changelist" comment="" />
+    <list default="true" id="8cddd76c-95c6-41a3-ad21-db8a6a6cf189" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections - Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections - List (Day2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections - Set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collections - Tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Control Flow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIst.py" beforeDir="false" afterPath="$PROJECT_DIR$/Collections - LIst.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZCn6VHwhW9gXbxUAn9w5Mf6NsQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +36,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.For loops">
-    <configuration name="For loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Control Flow">
+    <configuration name="Collections - Dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -36,7 +51,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/For loops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Collections - Dictionaries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -45,7 +60,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="If... Else..." type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Collections - List (Day2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/If... Else....py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Wan Chi Chiang\PycharmProjects\python dev\Collections - List (Day2).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LIst" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Collections - Set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,7 +93,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LIst.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Collections - Set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Collections - Tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +114,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/operators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Collections - Tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Control Flow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +135,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/variables.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Control Flow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.For loops" />
-        <item itemvalue="Python.If... Else..." />
-        <item itemvalue="Python.LIst" />
-        <item itemvalue="Python.operators" />
-        <item itemvalue="Python.variables" />
+        <item itemvalue="Python.Control Flow" />
+        <item itemvalue="Python.Collections - Set" />
+        <item itemvalue="Python.Collections - Dictionaries" />
+        <item itemvalue="Python.Collections - Tuple" />
+        <item itemvalue="Python.Collections - List (Day2)" />
       </list>
     </recent_temporary>
   </component>
@@ -153,21 +168,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="392" height="163" key="GridCell.Tab.0.bottom" timestamp="1584370068476">
+    <state width="1345" height="163" key="GridCell.Tab.0.bottom" timestamp="1584449702851">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="392" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584370068476" />
-    <state width="392" height="163" key="GridCell.Tab.0.center" timestamp="1584370068476">
+    <state width="1345" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584449702851" />
+    <state width="1345" height="163" key="GridCell.Tab.0.center" timestamp="1584449702851">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="392" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584370068476" />
-    <state width="392" height="163" key="GridCell.Tab.0.left" timestamp="1584370068476">
+    <state width="1345" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584449702851" />
+    <state width="1345" height="163" key="GridCell.Tab.0.left" timestamp="1584449702850">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="392" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584370068476" />
-    <state width="392" height="163" key="GridCell.Tab.0.right" timestamp="1584370068476">
+    <state width="1345" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584449702850" />
+    <state width="1345" height="163" key="GridCell.Tab.0.right" timestamp="1584449702851">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="392" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584370068476" />
+    <state width="1345" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584449702851" />
   </component>
 </project>
