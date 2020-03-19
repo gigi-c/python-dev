@@ -110,6 +110,7 @@ while playing:
          if playing_turn == 0:
             x_position = event.pos[0]
             column = int(math.floor(x_position/SQUARESIZE))
+            # column = input("{} please make your move (0-6)".format(Player_1)
 
             if valid_location(playing_board, column):
                row = next_available_row(playing_board, column)
@@ -125,6 +126,7 @@ while playing:
          else:
             x_position = event.pos[0]
             column = int(math.floor(x_position/SQUARESIZE))
+            # column = input("{} please make your move (0-6)".format(Player_2)
 
             if valid_location(playing_board, column):
                row = next_available_row(playing_board, column)
