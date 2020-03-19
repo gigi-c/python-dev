@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8cddd76c-95c6-41a3-ad21-db8a6a6cf189" name="Default Changelist" comment="">
+    <list default="true" id="8cddd76c-95c6-41a3-ad21-db8a6a6cf189" name="Default Changelist" comment="Python Week 1 Day 3 Python Game Project">
+      <change afterPath="$PROJECT_DIR$/Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Four Pillars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libraries and modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Four-In-A-Row.py" beforeDir="false" afterPath="$PROJECT_DIR$/Four-In-A-Row.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +40,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Four-In-A-Row">
-    <configuration name="Four-In-A-Row" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Four Pillars">
+    <configuration name="Class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,7 +53,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Four-In-A-Row.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python Game - Connect 4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Four Pillars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Game - Connect 4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Four Pillars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Game.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pygame trial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Libraries and modules" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pygame trial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Libraries and modules.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="trial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="animal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +137,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/animal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Four-In-A-Row" />
-        <item itemvalue="Python.Python Game - Connect 4" />
-        <item itemvalue="Python.Python Game" />
-        <item itemvalue="Python.trial" />
-        <item itemvalue="Python.pygame trial" />
+        <item itemvalue="Python.Four Pillars" />
+        <item itemvalue="Python.animal" />
+        <item itemvalue="Python.Libraries and modules" />
+        <item itemvalue="Python.Class" />
+        <item itemvalue="Python.Functions" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +171,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Python Week 1 Day 3 Python Game Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python Week 1 Day 3 Python Game Project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584484131985">
@@ -181,26 +187,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="646" y="125" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584483958733" />
-    <state width="1345" height="146" key="GridCell.Tab.0.bottom" timestamp="1584583844382">
+    <state width="1345" height="146" key="GridCell.Tab.0.bottom" timestamp="1584629604645">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="146" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584583844382" />
-    <state width="1345" height="146" key="GridCell.Tab.0.center" timestamp="1584583844382">
+    <state width="1345" height="146" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584629604645" />
+    <state width="1345" height="146" key="GridCell.Tab.0.center" timestamp="1584629604645">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="146" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584583844382" />
-    <state width="1345" height="146" key="GridCell.Tab.0.left" timestamp="1584583844381">
+    <state width="1345" height="146" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584629604645" />
+    <state width="1345" height="146" key="GridCell.Tab.0.left" timestamp="1584629604645">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="146" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584583844381" />
-    <state width="1345" height="146" key="GridCell.Tab.0.right" timestamp="1584583844382">
+    <state width="1345" height="146" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584629604645" />
+    <state width="1345" height="146" key="GridCell.Tab.0.right" timestamp="1584629604645">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="146" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584583844382" />
-    <state x="368" y="13" key="SettingsEditor" timestamp="1584571997169">
+    <state width="1345" height="146" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584629604645" />
+    <state x="368" y="13" key="SettingsEditor" timestamp="1584628180786">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="368" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584571997169" />
+    <state x="368" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584628180786" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1584454667380">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -209,10 +215,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584606478950" />
-    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584606878191">
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584628500397">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1584606878191" />
+    <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1584628500397" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584572996628">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
