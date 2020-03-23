@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cddd76c-95c6-41a3-ad21-db8a6a6cf189" name="Default Changelist" comment="Python Week 1 Day 3 Python Game Project">
-      <change afterPath="$PROJECT_DIR$/Class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Four Pillars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Libraries and modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple_calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sparta_university.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_unittest_simplecalc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Four Pillars.py" beforeDir="false" afterPath="$PROJECT_DIR$/Four Pillars.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,28 +40,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Four Pillars">
-    <configuration name="Class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python dev" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.test_unittest_simplecalc">
     <configuration name="Four Pillars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lambda Function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lambda Function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Libraries and modules" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_unittest_simplecalc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Libraries and modules.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_unittest_simplecalc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,34 +104,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="animal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_unittest_simplecalc.Calctests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="python dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/animal.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_unittest_simplecalc.Calctests&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_unittest_simplecalc.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_unittest_simplecalc.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_unittest_simplecalc" />
+        <item itemvalue="Python tests.Unittests in test_unittest_simplecalc.py" />
+        <item itemvalue="Python tests.Unittests for test_unittest_simplecalc.Calctests" />
+        <item itemvalue="Python.Lambda Function" />
         <item itemvalue="Python.Four Pillars" />
-        <item itemvalue="Python.animal" />
-        <item itemvalue="Python.Libraries and modules" />
-        <item itemvalue="Python.Class" />
-        <item itemvalue="Python.Functions" />
       </list>
     </recent_temporary>
   </component>
@@ -187,34 +173,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="646" y="125" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584483958733" />
-    <state width="1345" height="146" key="GridCell.Tab.0.bottom" timestamp="1584629604645">
+    <state width="1345" height="146" key="GridCell.Tab.0.bottom" timestamp="1584979542837">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="146" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584629604645" />
-    <state width="1345" height="146" key="GridCell.Tab.0.center" timestamp="1584629604645">
+    <state width="1345" height="146" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584979542837" />
+    <state width="1345" height="146" key="GridCell.Tab.0.center" timestamp="1584979542836">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="146" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584629604645" />
-    <state width="1345" height="146" key="GridCell.Tab.0.left" timestamp="1584629604645">
+    <state width="1345" height="146" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584979542836" />
+    <state width="1345" height="146" key="GridCell.Tab.0.left" timestamp="1584979542835">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="146" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584629604645" />
-    <state width="1345" height="146" key="GridCell.Tab.0.right" timestamp="1584629604645">
+    <state width="1345" height="146" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584979542835" />
+    <state width="1345" height="146" key="GridCell.Tab.0.right" timestamp="1584979542836">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="146" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584629604645" />
-    <state x="368" y="13" key="SettingsEditor" timestamp="1584628180786">
+    <state width="1345" height="146" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584979542836" />
+    <state x="368" y="13" key="SettingsEditor" timestamp="1584979135500">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="368" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584628180786" />
+    <state x="368" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584979135500" />
+    <state x="508" y="279" key="VCS.ChangelistChooser" timestamp="1584965151867">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="508" y="279" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1584965151867" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1584454667380">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584454667380" />
-    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584606478950">
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1584953506607">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584606478950" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584953506607" />
     <state x="492" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584628500397">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
