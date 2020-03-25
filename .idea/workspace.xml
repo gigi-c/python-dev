@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cddd76c-95c6-41a3-ad21-db8a6a6cf189" name="Default Changelist" comment="Python Week 1 Day 3 Python Game Project">
-      <change afterPath="$PROJECT_DIR$/python_csv/csv_with_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_csv/new_user_details" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_csv/user_detail" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_excel/create_excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_excel/data9_copied.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_excel/fetch_excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_excel/install_excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_excel/new_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_sql/connect_sql.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_excel/data9.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/python_excel/data9.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +40,53 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Wan Chi Chiang\PycharmProjects\python dev" />
       <recent name="C:\Users\Wan Chi Chiang\PycharmProjects\python dev\create excel" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.csv_with_python (1)">
+  <component name="RunManager" selected="Python.create_excel">
+    <configuration name="connect_sql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_sql" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_sql/connect_sql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="create_excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_excel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_excel/create_excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="csv_with_python (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,55 +150,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fetch_excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python dev" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/create_excel" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/create_excel/fetch_excel.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="new_excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python dev" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/create_excel" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/create_excel/new_excel.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.create_excel" />
+        <item itemvalue="Python.connect_sql" />
         <item itemvalue="Python.csv_with_python (1)" />
         <item itemvalue="Python.fetch_excel (1)" />
         <item itemvalue="Python.csv_with_python" />
-        <item itemvalue="Python.new_excel" />
-        <item itemvalue="Python.fetch_excel" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +179,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Python Week 1 Day 3 Python Game Project" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Notifications" timestamp="1585132639898">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1585132639898" />
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584484131985">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -199,22 +199,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="646" y="125" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584483958733" />
-    <state width="1345" height="273" key="GridCell.Tab.0.bottom" timestamp="1585072232493">
+    <state width="1345" height="273" key="GridCell.Tab.0.bottom" timestamp="1585131758885">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="273" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585072232493" />
-    <state width="1345" height="273" key="GridCell.Tab.0.center" timestamp="1585072232493">
+    <state width="1345" height="273" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585131758885" />
+    <state width="1345" height="273" key="GridCell.Tab.0.center" timestamp="1585131758885">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="273" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585072232493" />
-    <state width="1345" height="273" key="GridCell.Tab.0.left" timestamp="1585072232493">
+    <state width="1345" height="273" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585131758885" />
+    <state width="1345" height="273" key="GridCell.Tab.0.left" timestamp="1585131758885">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="273" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585072232493" />
-    <state width="1345" height="273" key="GridCell.Tab.0.right" timestamp="1585072232493">
+    <state width="1345" height="273" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585131758885" />
+    <state width="1345" height="273" key="GridCell.Tab.0.right" timestamp="1585131758885">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="273" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585072232493" />
+    <state width="1345" height="273" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585131758885" />
     <state x="368" y="13" key="SettingsEditor" timestamp="1585063386999">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
