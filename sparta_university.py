@@ -52,6 +52,12 @@ class Modules():
         for module in self.list_of_modules:
             print(module)
 
+    def is_sparta_module(self):
+        if self.module_name in self.list_of_modules:
+            print("{} is a sparta module".format(self.module_name))
+        else:
+            print("{} is not a sparta module".format(self.module_name))
+
 module_1 = Modules("Business Week", 1)
 module_2 = Modules("Excel Week", 1)
 module_3 = Modules("SQL and Agile", 1)
@@ -60,6 +66,10 @@ module_5 = Modules("Machine Learning and Cloud", 1)
 module_6 = Modules("Tableau", 1)
 module_7 = Modules("Final Project", 1)
 
+# test if there's a module already
+module_2.is_sparta_module()
+
+# add module to the list
 module_1.add_module()
 module_2.add_module()
 module_3.add_module()
@@ -67,8 +77,15 @@ module_4.add_module()
 module_5.add_module()
 module_6.add_module()
 module_7.add_module()
+
+# test if the module is successfully added to the list
+module_2.is_sparta_module()
+
+# see the length of different modules
 module_2.module_length()
 module_4.module_length()
+
+# list modules in the list (can use any module to test)
 module_7.print_modules()
 
 # As a user I want to add a student to a batch
@@ -94,10 +111,14 @@ class Batches:
             print(trainees)
 
 data_9 = Batches("Data", 9, "24 Feb")
+
+# add trainee plus test if the name of the trainee is valid
 data_9.add_trainee("Gigi")
 data_9.add_trainee("CJ")
 data_9.add_trainee("Weiyee")
 data_9.add_trainee("Johnny")
 data_9.add_trainee("Y1n")
+
+# print trainee
 data_9.print_trainees()
 
