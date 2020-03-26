@@ -1,7 +1,4 @@
 # As a user I want to create a trainee
-# As a user I want to list all modules
-# As a user I want to add a student to a batch
-# As a user I want to list all students in a batch
 
 class Trainees:
     def __init__(self, name, age, trainee_id, stream):
@@ -30,6 +27,8 @@ trainee_5 = Trainees("Steven", 25, "005", "Engineer")
 
 trainee_5.info()
 trainee_4.trainer()
+
+# As a user I want to list all modules
 
 class Modules():
     list_of_modules = []
@@ -72,6 +71,8 @@ module_2.module_length()
 module_4.module_length()
 module_7.print_modules()
 
+# As a user I want to add a student to a batch
+# As a user I want to list all students in a batch
 
 class Batches:
     list_of_trainees = []
@@ -81,8 +82,11 @@ class Batches:
         self.start_date = start_date
 
     def add_trainee(self, trainee):
-        if trainee not in self.list_of_trainees:
+        if trainee not in self.list_of_trainees and trainee.isalpha():
             self.list_of_trainees.append(trainee)
+            print("{} successfully added to {}".format(trainee, self.batch_name))
+        else:
+            print("Invalid name entry")
 
     def print_trainees(self):
         print("{}:".format(self.batch_name))
@@ -94,5 +98,6 @@ data_9.add_trainee("Gigi")
 data_9.add_trainee("CJ")
 data_9.add_trainee("Weiyee")
 data_9.add_trainee("Johnny")
+data_9.add_trainee("Y1n")
 data_9.print_trainees()
 
